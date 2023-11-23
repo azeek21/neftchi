@@ -1,0 +1,224 @@
+{
+  "products": [
+    {
+      "id": "655faa2196f7ff5b9bb824cc",
+      "name": "Jane Fernandez",
+      "brand": "Snider",
+      "imgUrl": "/machine.png",
+      "model": "868a2bdd-1a58-497e-b7a9-4352a16303ce",
+      "stats": {
+        "certified": true,
+        "interchangeable": true,
+        "karma": 1,
+        "priorityKarma": false,
+        "quantity": {
+          "unit": "шт",
+          "value": 8
+        },
+        "state": "new"
+      },
+      "suppliers": [
+        {
+          "id": "655faa21813502598263b855",
+          "name": "Freakin",
+          "afo": 0.92,
+          "websiteUrl": "https://abdulaziz.codes",
+          "available": {
+            "unit": "шт",
+            "value": 96
+          },
+          "delivery": 80,
+          "price": {
+            "buy": {
+              "currencyISO": "USD",
+              "symbol": "¥",
+              "value": 77216305
+            },
+            "rent": {
+              "currencyISO": "UZS",
+              "symbol": "¥",
+              "value": 3053817
+            }
+          },
+          "productId": "655faa21034913ac077df3d1",
+          "saleType": "FBY",
+          "shipment": {
+            "timeUnit": "m",
+            "max": 32,
+            "min": 1
+          },
+          "address": {
+            "city": "Dale",
+            "country": "Cyprus",
+            "latlong": [5.246564, 89.108075]
+          }
+        }
+      ]
+    },
+    {
+      "id": "655faa21a7371c04c41aa74a",
+      "name": "Barry Watts",
+      "brand": "Valencia",
+      "imgUrl": "/machine.png",
+      "model": "bcfc9138-d872-41ac-a11a-0cffc93c25c9",
+      "stats": {
+        "certified": true,
+        "interchangeable": true,
+        "karma": 10,
+        "priorityKarma": true,
+        "quantity": {
+          "unit": "шт",
+          "value": 35
+        },
+        "state": "used"
+      },
+      "suppliers": [
+        {
+          "id": "655faa21c0ec2db9bc3ec5a8",
+          "name": "Boink",
+          "afo": 1.84,
+          "websiteUrl": "https://abdulaziz.codes",
+          "available": {
+            "unit": "шт",
+            "value": 69
+          },
+          "delivery": 21,
+          "price": {
+            "buy": {
+              "currencyISO": "USD",
+              "symbol": "₽",
+              "value": 13743237
+            },
+            "rent": {
+              "currencyISO": "RUB",
+              "symbol": "₽",
+              "value": 2006349
+            }
+          },
+          "productId": "655faa218cb4b8324ea87060",
+          "saleType": "Onl",
+          "shipment": {
+            "timeUnit": "h",
+            "max": 36,
+            "min": 0
+          },
+          "address": {
+            "city": "Joppa",
+            "country": "Mali",
+            "latlong": [-1.592819, -26.595367]
+          }
+        }
+      ]
+    },
+    {
+      "id": "655faa2196735a0dd7843ceb",
+      "name": "Holcomb Woods",
+      "brand": "Letha",
+      "imgUrl": "/machine.png",
+      "model": "fe3d4d51-d948-41b9-90d7-217364b21ed4",
+      "stats": {
+        "certified": true,
+        "interchangeable": true,
+        "karma": 1,
+        "priorityKarma": true,
+        "quantity": {
+          "unit": "шт",
+          "value": 15
+        },
+        "state": "broken"
+      },
+      "suppliers": [
+        {
+          "id": "655faa2156d0dacdff7aa3af",
+          "name": "Frolix",
+          "afo": 1.53,
+          "websiteUrl": "https://abdulaziz.codes",
+          "available": {
+            "unit": "шт",
+            "value": 72
+          },
+          "delivery": 82,
+          "price": {
+            "buy": {
+              "currencyISO": "AED",
+              "symbol": "$",
+              "value": 22260149
+            },
+            "rent": {
+              "currencyISO": "EUR",
+              "symbol": "₽",
+              "value": 9704797
+            }
+          },
+          "productId": "655faa21bc0dedb6053bc112",
+          "saleType": "FBY",
+          "shipment": {
+            "timeUnit": "h",
+            "max": 52,
+            "min": 8
+          },
+          "address": {
+            "city": "Belfair",
+            "country": "Guyana",
+            "latlong": [-79.537363, 164.725044]
+          }
+        }
+      ]
+    },
+    {
+      "id": "655faa21873ac64c75fbfbe3",
+      "name": "Mcclure Clarke",
+      "brand": "Eleanor",
+      "imgUrl": "/machine.png",
+      "model": "ceef3661-3635-4805-88a6-399e85e8f4be",
+      "stats": {
+        "certified": false,
+        "interchangeable": true,
+        "karma": 6,
+        "priorityKarma": true,
+        "quantity": {
+          "unit": "шт",
+          "value": 85
+        },
+        "state": "used"
+      },
+      "suppliers": [
+        {
+          "id": "655faa210b130dbcf5817cee",
+          "name": "Greeker",
+          "afo": 1.28,
+          "websiteUrl": "https://abdulaziz.codes",
+          "available": {
+            "unit": "шт",
+            "value": 40
+          },
+          "delivery": 16,
+          "price": {
+            "buy": {
+              "currencyISO": "RUB",
+              "symbol": "$",
+              "value": 62347118
+            },
+            "rent": {
+              "currencyISO": "EUR",
+              "symbol": "₽",
+              "value": 4252302
+            }
+          },
+          "productId": "655faa21c9a3eecb349a8647",
+          "saleType": "FBS",
+          "shipment": {
+            "timeUnit": "m",
+            "max": 43,
+            "min": 1
+          },
+          "address": {
+            "city": "Fowlerville",
+            "country": "Uzbekistan",
+            "latlong": [-33.811807, 34.974165]
+          }
+        }
+      ]
+    }
+  ]
+}
