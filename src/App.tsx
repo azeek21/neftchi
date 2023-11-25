@@ -1,5 +1,5 @@
+import SwapHorizontalIcon from "@mui/icons-material/SwapHoriz";
 import {
-  AccordionDetails,
   Box,
   Button,
   Container,
@@ -8,9 +8,7 @@ import {
   Stack,
   Typography,
 } from "@mui/material";
-import { Accordion, AccordionSummary } from "./components/accordion";
 import { useEffect, useState } from "react";
-import SwapHorizontalIcon from "@mui/icons-material/SwapHoriz";
 import Product from "./components/product";
 import ProductService from "./lib/ProductService";
 
@@ -153,7 +151,6 @@ function App() {
   useEffect(() => {
     const getem = async () => {
       let prods = await ProductService.getAllProducts();
-      console.log("got:", prods);
       setItems(prods);
     };
     getem();
@@ -163,7 +160,6 @@ function App() {
     <Container
       maxWidth="xl"
       sx={{
-        border: "1px solid red",
         padding: "35px 50px",
       }}
     >

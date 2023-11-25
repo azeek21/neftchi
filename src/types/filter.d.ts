@@ -1,4 +1,4 @@
-type FilterSelectType = "single" | "multi" | "boolean";
+type FilterSelectType = "single" | "multi";
 
 /**
  * If not provided they are interpreted as negative and
@@ -17,7 +17,10 @@ type FilterSelect = {
   type: "checkbox";
   title: string;
   selectType: FilterSelectType;
-  fields: Record<string, { title: string; checked?: boolean }>;
+  fields: Record<
+    string,
+    { title: string; checked?: boolean; available?: number }
+  >;
 };
 
 type FilterBoolean = {

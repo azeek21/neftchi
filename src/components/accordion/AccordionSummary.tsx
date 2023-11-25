@@ -13,7 +13,6 @@ const AccordionSummary = styled((props: AccordionSummaryProps) => (
     transform: "rotate(90deg)",
   },
   "& .MuiAccordionSummary-content": {
-    border: "1px solid red",
     margin: 0,
     display: "flex",
     width: "100%",

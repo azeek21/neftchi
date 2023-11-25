@@ -31,18 +31,40 @@ export default function GlobalTheme({ children }: PropsWithChildren) {
                 border: "1px solid #8e8e8e",
                 textTransform: "none",
                 color: "inherit",
+                ":focus-within": {
+                  border: "1px solid #e53b35",
+                },
+                ":hover": {
+                  background: "#eff0f4",
+                },
               },
               outlinedSuccess: {
                 color: "#ffffff",
                 background: "#6ca695",
                 border: "1px solid #6ca695",
+                ":hover": {
+                  color: "#ffffff",
+                  background: "#88b875",
+                  border: "1px solid #88b875",
+                },
               },
               outlinedSecondary: {
                 background: "#8e8e8e",
                 color: "#ffffff",
+                ":hover": {
+                  backgroundColor: "#a1a1a1",
+                },
               },
               outlinedPrimary: {
                 color: "#505050",
+              },
+              containedPrimary: {
+                color: "white",
+                backgroundColor: "#f25627",
+                ":hover": {
+                  color: "white",
+                  backgroundColor: "#e32d0d",
+                },
               },
             },
           },
@@ -53,6 +75,16 @@ export default function GlobalTheme({ children }: PropsWithChildren) {
               },
               colorSecondary: {
                 color: "#ffffff",
+              },
+            },
+          },
+          MuiLink: {
+            styleOverrides: {
+              root: {
+                color: "#f25627",
+                fontWeight: 500,
+                textUnderlineOffset: 1,
+                textDecorationColor: "#f25627",
               },
             },
           },

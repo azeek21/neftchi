@@ -1,17 +1,20 @@
 export default class ProductSupplierService {
-  static async getSuppliersFilterForProduct(
-    productId: string
-  ): Promise<Filter> {
+  static async getSuppliersFilterForProduct(): // productId: string
+  Promise<Filter> {
     return {
       channel: {
         title: "Канал продаж",
         type: "checkbox",
         selectType: "multi",
         fields: {
-          API: { title: "API" },
-          MP: { title: "Маркет плейс" },
-          Onl: { title: "Online" },
-          Ofl: { title: "Offline" },
+          API: { title: "API", available: 69 },
+          MP: { title: "Маркет плейс", available: 43 },
+          Onl: { title: "Online", available: 99 },
+          Ofl: { title: "Offline", available: 123 },
+          Bfd: { title: "Backdor", available: 83 },
+          Bs: { title: "Bullshit", available: 33 },
+          Mdl: { title: "Middleman", available: 31 },
+          Xl: { title: "Boo baa", available: 21 },
         },
       },
       analogues: {

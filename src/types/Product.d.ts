@@ -7,6 +7,7 @@ type ProductStatsInfo = {
   interchangeable: boolean;
   certified: boolean;
   quantity?: ProductQuantity;
+  analogue: ProductAnalogue;
   state?: ProductState;
 };
 
