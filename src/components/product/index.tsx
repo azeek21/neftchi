@@ -19,7 +19,7 @@ export default function Product({
         <ProductImageAndName
           imgUrl="./machine.png"
           title={product.name}
-          subTitle={product.model}
+          subTitle={product.brand}
         />
         <ProductInfo productInfo={product.stats} />
       </AccordionSummary>

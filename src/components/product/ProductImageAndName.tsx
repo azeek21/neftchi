@@ -21,8 +21,8 @@ export default function ProductImageAndName(product: IProductImageAndName) {
         />
       </Box>
       <Stack>
-        <Typography fontWeight={"bold"}>Xmachine Ytype</Typography>
-        <Typography color="secondary">Xmachine Ytype</Typography>
+        <Typography fontWeight={"bold"}>{product.title}</Typography>
+        <Typography color="secondary">{product.subTitle}</Typography>
       </Stack>
     </Stack>
   );

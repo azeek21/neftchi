@@ -2,6 +2,7 @@ import { Stack } from "@mui/material";
 import { useEffect, useState } from "react";
 import ProductService from "../../lib/ProductService";
 import ProductSupplierService from "../../lib/ProductSupplierService";
+import ProductAnalogues from "../productAnalogue";
 import ProductSupplierFilter from "../productSupplier/ProductSupplierFilters";
 import ProductSupplierList from "../productSupplier/ProductSupplierList";
 
@@ -21,10 +22,11 @@ export default function ProductDetails({ product }: IProductDetails) {
   }, []);
 
   return (
-    <Stack direction="row" gap="1.5rem">
+    <Stack direction="row" gap="2rem">
       {filters && <ProductSupplierFilter filters={filters} />}
       <Stack width="100%" overflow="hidden" gap="2rem">
         <ProductSupplierList title="Сранение" suppliers={product.suppliers} />
+        <ProductAnalogues analogue={product} />
         <ProductSupplierList
           title="Предложения маркетплейса"
           suppliers={product.suppliers}
