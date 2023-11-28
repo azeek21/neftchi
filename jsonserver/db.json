@@ -1235,6 +1235,1386 @@
           "websiteUrl": "https://abdulaziz.codes"
         }
       ]
+    },
+    {
+      "id": "6561427fb2c6737c620b3",
+      "name": "Crane Mcneil",
+      "brand": "James",
+      "model": "2a959dc4-c094-4189-8e94-96c1df94fb00",
+      "stats": {
+        "karma": 6,
+        "state": "new",
+        "analogue": "analogue",
+        "quantity": {
+          "unit": "шт",
+          "value": 95
+        },
+        "certified": false,
+        "priorityKarma": false,
+        "interchangeable": true
+      },
+      "imgUrl": "/machine.png",
+      "suppliers": [
+        {
+          "id": "6561427f11c38405ca3575db",
+          "afo": 0.66,
+          "name": "Sybixtex",
+          "price": {
+            "buy": {
+              "value": 42287911,
+              "symbol": "$",
+              "discount": 3144932,
+              "currencyISO": "UZS"
+            },
+            "rent": {
+              "value": 2213247,
+              "symbol": "$",
+              "currencyISO": "UZS"
+            }
+          },
+          "address": {
+            "city": "Loveland",
+            "country": "Antarctica",
+            "latlong": [-66.391207, -69.740216]
+          },
+          "delivery": 24,
+          "saleType": "Off",
+          "shipment": {
+            "max": 32,
+            "min": 9,
+            "timeUnit": "w"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 82
+          },
+          "productId": "6561427f477a506afd2b1ca9",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f049918bd6c9d0728",
+          "afo": 1.83,
+          "name": "Cujo",
+          "price": {
+            "buy": {
+              "value": 93726628,
+              "symbol": "$",
+              "discount": 7469523,
+              "currencyISO": "RUB"
+            },
+            "rent": {
+              "value": 1048877,
+              "symbol": "$",
+              "currencyISO": "EUR"
+            }
+          },
+          "address": {
+            "city": "Sanborn",
+            "country": "Libya",
+            "latlong": [67.777738, 141.512003]
+          },
+          "delivery": 20,
+          "saleType": "API",
+          "shipment": {
+            "max": 20,
+            "min": 8,
+            "timeUnit": "m"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 19
+          },
+          "productId": "6561427f1df05f763c6bf488",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f622443932b55ae50",
+          "afo": 1.79,
+          "name": "Cuizine",
+          "price": {
+            "buy": {
+              "value": 10261069,
+              "symbol": "¥",
+              "discount": 4341808,
+              "currencyISO": "UZS"
+            },
+            "rent": {
+              "value": 8307958,
+              "symbol": "$",
+              "currencyISO": "RUB"
+            }
+          },
+          "address": {
+            "city": "Grazierville",
+            "country": "Martinique",
+            "latlong": [12.204488, 12.739244]
+          },
+          "delivery": 13,
+          "saleType": "API",
+          "shipment": {
+            "max": 94,
+            "min": 1,
+            "timeUnit": "m"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 2
+          },
+          "productId": "6561427fb691b5ec7921c6e3",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427fbcfdd1d9571c9019",
+          "afo": 1.56,
+          "name": "Insuresys",
+          "price": {
+            "buy": {
+              "value": 44990261,
+              "symbol": "$",
+              "discount": 8896244,
+              "currencyISO": "AED"
+            },
+            "rent": {
+              "value": 9905076,
+              "symbol": "$",
+              "currencyISO": "EUR"
+            }
+          },
+          "address": {
+            "city": "Floris",
+            "country": "Mauritania",
+            "latlong": [71.323716, -22.950642]
+          },
+          "delivery": 87,
+          "saleType": "PRO",
+          "shipment": {
+            "max": 25,
+            "min": 9,
+            "timeUnit": "h"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 1
+          },
+          "productId": "6561427fa759dbc800d08af6",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427fc22f4881bb989f4a",
+          "afo": 1.71,
+          "name": "Squish",
+          "price": {
+            "buy": {
+              "value": 92932904,
+              "symbol": "¥",
+              "discount": 6818476,
+              "currencyISO": "USD"
+            },
+            "rent": {
+              "value": 4302699,
+              "symbol": "¥",
+              "currencyISO": "RUB"
+            }
+          },
+          "address": {
+            "city": "Brenton",
+            "country": "Luxembourg",
+            "latlong": [-32.005062, 13.186236]
+          },
+          "delivery": 98,
+          "saleType": "PRO",
+          "shipment": {
+            "max": 88,
+            "min": 1,
+            "timeUnit": "w"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 9
+          },
+          "productId": "6561427f1040813af306c6fe",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f7fd70a6a2bda8641",
+          "afo": 1.15,
+          "name": "Codax",
+          "price": {
+            "buy": {
+              "value": 79736659,
+              "symbol": "₽",
+              "discount": 3231158,
+              "currencyISO": "UZS"
+            },
+            "rent": {
+              "value": 2828708,
+              "symbol": "$",
+              "currencyISO": "EUR"
+            }
+          },
+          "address": {
+            "city": "Lafferty",
+            "country": "Chad",
+            "latlong": [39.622619, -163.344211]
+          },
+          "delivery": 21,
+          "saleType": "FBY",
+          "shipment": {
+            "max": 82,
+            "min": 7,
+            "timeUnit": "w"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 52
+          },
+          "productId": "6561427f7c5855e3fe74f2e8",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f99995ad1e33f8115",
+          "afo": 1.87,
+          "name": "Signidyne",
+          "price": {
+            "buy": {
+              "value": 64594660,
+              "symbol": "¥",
+              "discount": 8286282,
+              "currencyISO": "RUB"
+            },
+            "rent": {
+              "value": 4057471,
+              "symbol": "¥",
+              "currencyISO": "AED"
+            }
+          },
+          "address": {
+            "city": "Nanafalia",
+            "country": "Sri Lanka",
+            "latlong": [-65.557017, -69.690628]
+          },
+          "delivery": 40,
+          "saleType": "FBS",
+          "shipment": {
+            "max": 74,
+            "min": 3,
+            "timeUnit": "d"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 14
+          },
+          "productId": "6561427f880f4dc8d714e32b",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f64374449e30ad2f9",
+          "afo": 0.89,
+          "name": "Zanymax",
+          "price": {
+            "buy": {
+              "value": 70408627,
+              "symbol": "₽",
+              "discount": 182090,
+              "currencyISO": "AED"
+            },
+            "rent": {
+              "value": 2461901,
+              "symbol": "₽",
+              "currencyISO": "RUB"
+            }
+          },
+          "address": {
+            "city": "Warsaw",
+            "country": "Sudan",
+            "latlong": [-47.395147, -114.290235]
+          },
+          "delivery": 11,
+          "saleType": "FBY",
+          "shipment": {
+            "max": 79,
+            "min": 10,
+            "timeUnit": "m"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 83
+          },
+          "productId": "6561427f8ca8a69bce963c9f",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f5f48d3a0de0aa781",
+          "afo": 1.73,
+          "name": "Uniworld",
+          "price": {
+            "buy": {
+              "value": 99757564,
+              "symbol": "$",
+              "discount": 4929154,
+              "currencyISO": "AED"
+            },
+            "rent": {
+              "value": 1796410,
+              "symbol": "$",
+              "currencyISO": "EUR"
+            }
+          },
+          "address": {
+            "city": "Monument",
+            "country": "United States",
+            "latlong": [45.440479, 44.366308]
+          },
+          "delivery": 76,
+          "saleType": "PRO",
+          "shipment": {
+            "max": 32,
+            "min": 2,
+            "timeUnit": "d"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 91
+          },
+          "productId": "6561427f07b9a0525284ead8",
+          "websiteUrl": "https://abdulaziz.codes"
+        }
+      ]
+    },
+    {
+      "id": "6561427fb2c6737c620e",
+      "name": "Crane Mcneil",
+      "brand": "James",
+      "model": "2a959dc4-c094-4189-8e94-96c1df94fb00",
+      "stats": {
+        "karma": 6,
+        "state": "new",
+        "analogue": "analogue",
+        "quantity": {
+          "unit": "шт",
+          "value": 95
+        },
+        "certified": false,
+        "priorityKarma": false,
+        "interchangeable": true
+      },
+      "imgUrl": "/machine.png",
+      "suppliers": [
+        {
+          "id": "6561427f11c38405ca3575db",
+          "afo": 0.66,
+          "name": "Sybixtex",
+          "price": {
+            "buy": {
+              "value": 42287911,
+              "symbol": "$",
+              "discount": 3144932,
+              "currencyISO": "UZS"
+            },
+            "rent": {
+              "value": 2213247,
+              "symbol": "$",
+              "currencyISO": "UZS"
+            }
+          },
+          "address": {
+            "city": "Loveland",
+            "country": "Antarctica",
+            "latlong": [-66.391207, -69.740216]
+          },
+          "delivery": 24,
+          "saleType": "Off",
+          "shipment": {
+            "max": 32,
+            "min": 9,
+            "timeUnit": "w"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 82
+          },
+          "productId": "6561427f477a506afd2b1ca9",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f049918bd6c9d0728",
+          "afo": 1.83,
+          "name": "Cujo",
+          "price": {
+            "buy": {
+              "value": 93726628,
+              "symbol": "$",
+              "discount": 7469523,
+              "currencyISO": "RUB"
+            },
+            "rent": {
+              "value": 1048877,
+              "symbol": "$",
+              "currencyISO": "EUR"
+            }
+          },
+          "address": {
+            "city": "Sanborn",
+            "country": "Libya",
+            "latlong": [67.777738, 141.512003]
+          },
+          "delivery": 20,
+          "saleType": "API",
+          "shipment": {
+            "max": 20,
+            "min": 8,
+            "timeUnit": "m"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 19
+          },
+          "productId": "6561427f1df05f763c6bf488",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f622443932b55ae50",
+          "afo": 1.79,
+          "name": "Cuizine",
+          "price": {
+            "buy": {
+              "value": 10261069,
+              "symbol": "¥",
+              "discount": 4341808,
+              "currencyISO": "UZS"
+            },
+            "rent": {
+              "value": 8307958,
+              "symbol": "$",
+              "currencyISO": "RUB"
+            }
+          },
+          "address": {
+            "city": "Grazierville",
+            "country": "Martinique",
+            "latlong": [12.204488, 12.739244]
+          },
+          "delivery": 13,
+          "saleType": "API",
+          "shipment": {
+            "max": 94,
+            "min": 1,
+            "timeUnit": "m"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 2
+          },
+          "productId": "6561427fb691b5ec7921c6e3",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427fbcfdd1d9571c9019",
+          "afo": 1.56,
+          "name": "Insuresys",
+          "price": {
+            "buy": {
+              "value": 44990261,
+              "symbol": "$",
+              "discount": 8896244,
+              "currencyISO": "AED"
+            },
+            "rent": {
+              "value": 9905076,
+              "symbol": "$",
+              "currencyISO": "EUR"
+            }
+          },
+          "address": {
+            "city": "Floris",
+            "country": "Mauritania",
+            "latlong": [71.323716, -22.950642]
+          },
+          "delivery": 87,
+          "saleType": "PRO",
+          "shipment": {
+            "max": 25,
+            "min": 9,
+            "timeUnit": "h"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 1
+          },
+          "productId": "6561427fa759dbc800d08af6",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427fc22f4881bb989f4a",
+          "afo": 1.71,
+          "name": "Squish",
+          "price": {
+            "buy": {
+              "value": 92932904,
+              "symbol": "¥",
+              "discount": 6818476,
+              "currencyISO": "USD"
+            },
+            "rent": {
+              "value": 4302699,
+              "symbol": "¥",
+              "currencyISO": "RUB"
+            }
+          },
+          "address": {
+            "city": "Brenton",
+            "country": "Luxembourg",
+            "latlong": [-32.005062, 13.186236]
+          },
+          "delivery": 98,
+          "saleType": "PRO",
+          "shipment": {
+            "max": 88,
+            "min": 1,
+            "timeUnit": "w"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 9
+          },
+          "productId": "6561427f1040813af306c6fe",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f7fd70a6a2bda8641",
+          "afo": 1.15,
+          "name": "Codax",
+          "price": {
+            "buy": {
+              "value": 79736659,
+              "symbol": "₽",
+              "discount": 3231158,
+              "currencyISO": "UZS"
+            },
+            "rent": {
+              "value": 2828708,
+              "symbol": "$",
+              "currencyISO": "EUR"
+            }
+          },
+          "address": {
+            "city": "Lafferty",
+            "country": "Chad",
+            "latlong": [39.622619, -163.344211]
+          },
+          "delivery": 21,
+          "saleType": "FBY",
+          "shipment": {
+            "max": 82,
+            "min": 7,
+            "timeUnit": "w"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 52
+          },
+          "productId": "6561427f7c5855e3fe74f2e8",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f99995ad1e33f8115",
+          "afo": 1.87,
+          "name": "Signidyne",
+          "price": {
+            "buy": {
+              "value": 64594660,
+              "symbol": "¥",
+              "discount": 8286282,
+              "currencyISO": "RUB"
+            },
+            "rent": {
+              "value": 4057471,
+              "symbol": "¥",
+              "currencyISO": "AED"
+            }
+          },
+          "address": {
+            "city": "Nanafalia",
+            "country": "Sri Lanka",
+            "latlong": [-65.557017, -69.690628]
+          },
+          "delivery": 40,
+          "saleType": "FBS",
+          "shipment": {
+            "max": 74,
+            "min": 3,
+            "timeUnit": "d"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 14
+          },
+          "productId": "6561427f880f4dc8d714e32b",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f64374449e30ad2f9",
+          "afo": 0.89,
+          "name": "Zanymax",
+          "price": {
+            "buy": {
+              "value": 70408627,
+              "symbol": "₽",
+              "discount": 182090,
+              "currencyISO": "AED"
+            },
+            "rent": {
+              "value": 2461901,
+              "symbol": "₽",
+              "currencyISO": "RUB"
+            }
+          },
+          "address": {
+            "city": "Warsaw",
+            "country": "Sudan",
+            "latlong": [-47.395147, -114.290235]
+          },
+          "delivery": 11,
+          "saleType": "FBY",
+          "shipment": {
+            "max": 79,
+            "min": 10,
+            "timeUnit": "m"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 83
+          },
+          "productId": "6561427f8ca8a69bce963c9f",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f5f48d3a0de0aa781",
+          "afo": 1.73,
+          "name": "Uniworld",
+          "price": {
+            "buy": {
+              "value": 99757564,
+              "symbol": "$",
+              "discount": 4929154,
+              "currencyISO": "AED"
+            },
+            "rent": {
+              "value": 1796410,
+              "symbol": "$",
+              "currencyISO": "EUR"
+            }
+          },
+          "address": {
+            "city": "Monument",
+            "country": "United States",
+            "latlong": [45.440479, 44.366308]
+          },
+          "delivery": 76,
+          "saleType": "PRO",
+          "shipment": {
+            "max": 32,
+            "min": 2,
+            "timeUnit": "d"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 91
+          },
+          "productId": "6561427f07b9a0525284ead8",
+          "websiteUrl": "https://abdulaziz.codes"
+        }
+      ]
+    },
+    {
+      "id": "6561427f737c620b364e",
+      "name": "Crane Mcneil",
+      "brand": "James",
+      "model": "2a959dc4-c094-4189-8e94-96c1df94fb00",
+      "stats": {
+        "karma": 6,
+        "state": "new",
+        "analogue": "analogue",
+        "quantity": {
+          "unit": "шт",
+          "value": 95
+        },
+        "certified": false,
+        "priorityKarma": false,
+        "interchangeable": true
+      },
+      "imgUrl": "/machine.png",
+      "suppliers": [
+        {
+          "id": "6561427f11c38405ca3575db",
+          "afo": 0.66,
+          "name": "Sybixtex",
+          "price": {
+            "buy": {
+              "value": 42287911,
+              "symbol": "$",
+              "discount": 3144932,
+              "currencyISO": "UZS"
+            },
+            "rent": {
+              "value": 2213247,
+              "symbol": "$",
+              "currencyISO": "UZS"
+            }
+          },
+          "address": {
+            "city": "Loveland",
+            "country": "Antarctica",
+            "latlong": [-66.391207, -69.740216]
+          },
+          "delivery": 24,
+          "saleType": "Off",
+          "shipment": {
+            "max": 32,
+            "min": 9,
+            "timeUnit": "w"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 82
+          },
+          "productId": "6561427f477a506afd2b1ca9",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f049918bd6c9d0728",
+          "afo": 1.83,
+          "name": "Cujo",
+          "price": {
+            "buy": {
+              "value": 93726628,
+              "symbol": "$",
+              "discount": 7469523,
+              "currencyISO": "RUB"
+            },
+            "rent": {
+              "value": 1048877,
+              "symbol": "$",
+              "currencyISO": "EUR"
+            }
+          },
+          "address": {
+            "city": "Sanborn",
+            "country": "Libya",
+            "latlong": [67.777738, 141.512003]
+          },
+          "delivery": 20,
+          "saleType": "API",
+          "shipment": {
+            "max": 20,
+            "min": 8,
+            "timeUnit": "m"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 19
+          },
+          "productId": "6561427f1df05f763c6bf488",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f622443932b55ae50",
+          "afo": 1.79,
+          "name": "Cuizine",
+          "price": {
+            "buy": {
+              "value": 10261069,
+              "symbol": "¥",
+              "discount": 4341808,
+              "currencyISO": "UZS"
+            },
+            "rent": {
+              "value": 8307958,
+              "symbol": "$",
+              "currencyISO": "RUB"
+            }
+          },
+          "address": {
+            "city": "Grazierville",
+            "country": "Martinique",
+            "latlong": [12.204488, 12.739244]
+          },
+          "delivery": 13,
+          "saleType": "API",
+          "shipment": {
+            "max": 94,
+            "min": 1,
+            "timeUnit": "m"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 2
+          },
+          "productId": "6561427fb691b5ec7921c6e3",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427fbcfdd1d9571c9019",
+          "afo": 1.56,
+          "name": "Insuresys",
+          "price": {
+            "buy": {
+              "value": 44990261,
+              "symbol": "$",
+              "discount": 8896244,
+              "currencyISO": "AED"
+            },
+            "rent": {
+              "value": 9905076,
+              "symbol": "$",
+              "currencyISO": "EUR"
+            }
+          },
+          "address": {
+            "city": "Floris",
+            "country": "Mauritania",
+            "latlong": [71.323716, -22.950642]
+          },
+          "delivery": 87,
+          "saleType": "PRO",
+          "shipment": {
+            "max": 25,
+            "min": 9,
+            "timeUnit": "h"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 1
+          },
+          "productId": "6561427fa759dbc800d08af6",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427fc22f4881bb989f4a",
+          "afo": 1.71,
+          "name": "Squish",
+          "price": {
+            "buy": {
+              "value": 92932904,
+              "symbol": "¥",
+              "discount": 6818476,
+              "currencyISO": "USD"
+            },
+            "rent": {
+              "value": 4302699,
+              "symbol": "¥",
+              "currencyISO": "RUB"
+            }
+          },
+          "address": {
+            "city": "Brenton",
+            "country": "Luxembourg",
+            "latlong": [-32.005062, 13.186236]
+          },
+          "delivery": 98,
+          "saleType": "PRO",
+          "shipment": {
+            "max": 88,
+            "min": 1,
+            "timeUnit": "w"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 9
+          },
+          "productId": "6561427f1040813af306c6fe",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f7fd70a6a2bda8641",
+          "afo": 1.15,
+          "name": "Codax",
+          "price": {
+            "buy": {
+              "value": 79736659,
+              "symbol": "₽",
+              "discount": 3231158,
+              "currencyISO": "UZS"
+            },
+            "rent": {
+              "value": 2828708,
+              "symbol": "$",
+              "currencyISO": "EUR"
+            }
+          },
+          "address": {
+            "city": "Lafferty",
+            "country": "Chad",
+            "latlong": [39.622619, -163.344211]
+          },
+          "delivery": 21,
+          "saleType": "FBY",
+          "shipment": {
+            "max": 82,
+            "min": 7,
+            "timeUnit": "w"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 52
+          },
+          "productId": "6561427f7c5855e3fe74f2e8",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f99995ad1e33f8115",
+          "afo": 1.87,
+          "name": "Signidyne",
+          "price": {
+            "buy": {
+              "value": 64594660,
+              "symbol": "¥",
+              "discount": 8286282,
+              "currencyISO": "RUB"
+            },
+            "rent": {
+              "value": 4057471,
+              "symbol": "¥",
+              "currencyISO": "AED"
+            }
+          },
+          "address": {
+            "city": "Nanafalia",
+            "country": "Sri Lanka",
+            "latlong": [-65.557017, -69.690628]
+          },
+          "delivery": 40,
+          "saleType": "FBS",
+          "shipment": {
+            "max": 74,
+            "min": 3,
+            "timeUnit": "d"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 14
+          },
+          "productId": "6561427f880f4dc8d714e32b",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f64374449e30ad2f9",
+          "afo": 0.89,
+          "name": "Zanymax",
+          "price": {
+            "buy": {
+              "value": 70408627,
+              "symbol": "₽",
+              "discount": 182090,
+              "currencyISO": "AED"
+            },
+            "rent": {
+              "value": 2461901,
+              "symbol": "₽",
+              "currencyISO": "RUB"
+            }
+          },
+          "address": {
+            "city": "Warsaw",
+            "country": "Sudan",
+            "latlong": [-47.395147, -114.290235]
+          },
+          "delivery": 11,
+          "saleType": "FBY",
+          "shipment": {
+            "max": 79,
+            "min": 10,
+            "timeUnit": "m"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 83
+          },
+          "productId": "6561427f8ca8a69bce963c9f",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f5f48d3a0de0aa781",
+          "afo": 1.73,
+          "name": "Uniworld",
+          "price": {
+            "buy": {
+              "value": 99757564,
+              "symbol": "$",
+              "discount": 4929154,
+              "currencyISO": "AED"
+            },
+            "rent": {
+              "value": 1796410,
+              "symbol": "$",
+              "currencyISO": "EUR"
+            }
+          },
+          "address": {
+            "city": "Monument",
+            "country": "United States",
+            "latlong": [45.440479, 44.366308]
+          },
+          "delivery": 76,
+          "saleType": "PRO",
+          "shipment": {
+            "max": 32,
+            "min": 2,
+            "timeUnit": "d"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 91
+          },
+          "productId": "6561427f07b9a0525284ead8",
+          "websiteUrl": "https://abdulaziz.codes"
+        }
+      ]
+    },
+    {
+      "id": "656142bc620b364e",
+      "name": "Crane Mcneil",
+      "brand": "James",
+      "model": "2a959dc4-c094-4189-8e94-96c1df94fb00",
+      "stats": {
+        "karma": 6,
+        "state": "new",
+        "analogue": "analogue",
+        "quantity": {
+          "unit": "шт",
+          "value": 95
+        },
+        "certified": false,
+        "priorityKarma": false,
+        "interchangeable": true
+      },
+      "imgUrl": "/machine.png",
+      "suppliers": [
+        {
+          "id": "6561427f11c38405ca3575db",
+          "afo": 0.66,
+          "name": "Sybixtex",
+          "price": {
+            "buy": {
+              "value": 42287911,
+              "symbol": "$",
+              "discount": 3144932,
+              "currencyISO": "UZS"
+            },
+            "rent": {
+              "value": 2213247,
+              "symbol": "$",
+              "currencyISO": "UZS"
+            }
+          },
+          "address": {
+            "city": "Loveland",
+            "country": "Antarctica",
+            "latlong": [-66.391207, -69.740216]
+          },
+          "delivery": 24,
+          "saleType": "Off",
+          "shipment": {
+            "max": 32,
+            "min": 9,
+            "timeUnit": "w"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 82
+          },
+          "productId": "6561427f477a506afd2b1ca9",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f049918bd6c9d0728",
+          "afo": 1.83,
+          "name": "Cujo",
+          "price": {
+            "buy": {
+              "value": 93726628,
+              "symbol": "$",
+              "discount": 7469523,
+              "currencyISO": "RUB"
+            },
+            "rent": {
+              "value": 1048877,
+              "symbol": "$",
+              "currencyISO": "EUR"
+            }
+          },
+          "address": {
+            "city": "Sanborn",
+            "country": "Libya",
+            "latlong": [67.777738, 141.512003]
+          },
+          "delivery": 20,
+          "saleType": "API",
+          "shipment": {
+            "max": 20,
+            "min": 8,
+            "timeUnit": "m"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 19
+          },
+          "productId": "6561427f1df05f763c6bf488",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f622443932b55ae50",
+          "afo": 1.79,
+          "name": "Cuizine",
+          "price": {
+            "buy": {
+              "value": 10261069,
+              "symbol": "¥",
+              "discount": 4341808,
+              "currencyISO": "UZS"
+            },
+            "rent": {
+              "value": 8307958,
+              "symbol": "$",
+              "currencyISO": "RUB"
+            }
+          },
+          "address": {
+            "city": "Grazierville",
+            "country": "Martinique",
+            "latlong": [12.204488, 12.739244]
+          },
+          "delivery": 13,
+          "saleType": "API",
+          "shipment": {
+            "max": 94,
+            "min": 1,
+            "timeUnit": "m"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 2
+          },
+          "productId": "6561427fb691b5ec7921c6e3",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427fbcfdd1d9571c9019",
+          "afo": 1.56,
+          "name": "Insuresys",
+          "price": {
+            "buy": {
+              "value": 44990261,
+              "symbol": "$",
+              "discount": 8896244,
+              "currencyISO": "AED"
+            },
+            "rent": {
+              "value": 9905076,
+              "symbol": "$",
+              "currencyISO": "EUR"
+            }
+          },
+          "address": {
+            "city": "Floris",
+            "country": "Mauritania",
+            "latlong": [71.323716, -22.950642]
+          },
+          "delivery": 87,
+          "saleType": "PRO",
+          "shipment": {
+            "max": 25,
+            "min": 9,
+            "timeUnit": "h"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 1
+          },
+          "productId": "6561427fa759dbc800d08af6",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427fc22f4881bb989f4a",
+          "afo": 1.71,
+          "name": "Squish",
+          "price": {
+            "buy": {
+              "value": 92932904,
+              "symbol": "¥",
+              "discount": 6818476,
+              "currencyISO": "USD"
+            },
+            "rent": {
+              "value": 4302699,
+              "symbol": "¥",
+              "currencyISO": "RUB"
+            }
+          },
+          "address": {
+            "city": "Brenton",
+            "country": "Luxembourg",
+            "latlong": [-32.005062, 13.186236]
+          },
+          "delivery": 98,
+          "saleType": "PRO",
+          "shipment": {
+            "max": 88,
+            "min": 1,
+            "timeUnit": "w"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 9
+          },
+          "productId": "6561427f1040813af306c6fe",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f7fd70a6a2bda8641",
+          "afo": 1.15,
+          "name": "Codax",
+          "price": {
+            "buy": {
+              "value": 79736659,
+              "symbol": "₽",
+              "discount": 3231158,
+              "currencyISO": "UZS"
+            },
+            "rent": {
+              "value": 2828708,
+              "symbol": "$",
+              "currencyISO": "EUR"
+            }
+          },
+          "address": {
+            "city": "Lafferty",
+            "country": "Chad",
+            "latlong": [39.622619, -163.344211]
+          },
+          "delivery": 21,
+          "saleType": "FBY",
+          "shipment": {
+            "max": 82,
+            "min": 7,
+            "timeUnit": "w"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 52
+          },
+          "productId": "6561427f7c5855e3fe74f2e8",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f99995ad1e33f8115",
+          "afo": 1.87,
+          "name": "Signidyne",
+          "price": {
+            "buy": {
+              "value": 64594660,
+              "symbol": "¥",
+              "discount": 8286282,
+              "currencyISO": "RUB"
+            },
+            "rent": {
+              "value": 4057471,
+              "symbol": "¥",
+              "currencyISO": "AED"
+            }
+          },
+          "address": {
+            "city": "Nanafalia",
+            "country": "Sri Lanka",
+            "latlong": [-65.557017, -69.690628]
+          },
+          "delivery": 40,
+          "saleType": "FBS",
+          "shipment": {
+            "max": 74,
+            "min": 3,
+            "timeUnit": "d"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 14
+          },
+          "productId": "6561427f880f4dc8d714e32b",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f64374449e30ad2f9",
+          "afo": 0.89,
+          "name": "Zanymax",
+          "price": {
+            "buy": {
+              "value": 70408627,
+              "symbol": "₽",
+              "discount": 182090,
+              "currencyISO": "AED"
+            },
+            "rent": {
+              "value": 2461901,
+              "symbol": "₽",
+              "currencyISO": "RUB"
+            }
+          },
+          "address": {
+            "city": "Warsaw",
+            "country": "Sudan",
+            "latlong": [-47.395147, -114.290235]
+          },
+          "delivery": 11,
+          "saleType": "FBY",
+          "shipment": {
+            "max": 79,
+            "min": 10,
+            "timeUnit": "m"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 83
+          },
+          "productId": "6561427f8ca8a69bce963c9f",
+          "websiteUrl": "https://abdulaziz.codes"
+        },
+        {
+          "id": "6561427f5f48d3a0de0aa781",
+          "afo": 1.73,
+          "name": "Uniworld",
+          "price": {
+            "buy": {
+              "value": 99757564,
+              "symbol": "$",
+              "discount": 4929154,
+              "currencyISO": "AED"
+            },
+            "rent": {
+              "value": 1796410,
+              "symbol": "$",
+              "currencyISO": "EUR"
+            }
+          },
+          "address": {
+            "city": "Monument",
+            "country": "United States",
+            "latlong": [45.440479, 44.366308]
+          },
+          "delivery": 76,
+          "saleType": "PRO",
+          "shipment": {
+            "max": 32,
+            "min": 2,
+            "timeUnit": "d"
+          },
+          "available": {
+            "unit": "шт",
+            "value": 91
+          },
+          "productId": "6561427f07b9a0525284ead8",
+          "websiteUrl": "https://abdulaziz.codes"
+        }
+      ]
     }
   ]
 }

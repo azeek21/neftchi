@@ -3,18 +3,21 @@ import { Accordion, AccordionSummary } from "../accordion";
 import ProductInfo from "./ProductBaseInfo";
 import ProductDetails from "./ProductDetails";
 import ProductImageAndName from "./ProductImageAndName";
+import { memo } from "react";
 
 interface IProductProps extends AccordionProps {
   expanded?: boolean;
   product: ProductType;
+  toggle: (id: string) => void;
 }
-export default function Product({
+function Product({
   expanded,
+  toggle,
   product,
   ...props
 }: Omit<IProductProps, "children">) {
   return (
-    <Accordion {...props} expanded={expanded}>
+    <Accordion {...props} expanded={expanded} onClick={() => {toggle(product.id)}}>
       <AccordionSummary sx={{ backgroundColor: expanded ? "#CBDDFF" : "none" }}>
         <ProductImageAndName
           imgUrl="./machine.png"
@@ -39,3 +42,5 @@ export default function Product({
     </Accordion>
   );
 }
+
+export default memo(Product);
